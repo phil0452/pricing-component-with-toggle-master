@@ -1,0 +1,17 @@
+:root{
+	/* primaty colors */
+	--linear-gradient: linear-gradient(90deg, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+	--linear-gradient-priceplan: linear-gradient(120deg, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+	
+	/* secondary colors */
+	--very-light-gray-blue: hsl(240, 78%, 98%);
+	--light-gray-blue: hsl(234, 14%, 74%);
+	--gray-blue: hsl(233, 13%, 49%);
+	--dark-gray-blue: hsl(232, 13%, 33%);
+	
+	/* main font */
+	--main-font: 15px;
+	
+	/* price font */
+	--price-font: 46px;
+}
