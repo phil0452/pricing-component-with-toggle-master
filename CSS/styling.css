@@ -99,8 +99,10 @@ section#price-plans .container .price-plan {
 	text-align: center;
     border-radius: 7px;
 	padding: 30px 20px;
+	margin: auto;
     margin-bottom: 25px;
-	position: relative;
+	position: relative;	
+	max-width: 275px;	
     z-index: 1;
 }
 
